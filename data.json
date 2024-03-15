@@ -28,5 +28,11 @@
         "name": "test",
         "contact": "123",
         "address": "asdad"
+    },
+    {
+        "id": 6,
+        "name": "Lidya Dwi Astuti",
+        "contact": "087823818160",
+        "address": "Jl mawar no 12 "
     }
 ]

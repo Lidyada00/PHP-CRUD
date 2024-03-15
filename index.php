@@ -29,7 +29,7 @@ $json_data = $master->get_all_data();
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient">
         <div class="container">
-            <a class="navbar-brand" href="./">PHP - JSON CRUD</a>
+            <a class="navbar-brand" href="./">PHP Data Member - JSON CRUD</a>
         </div>
     </nav>
     <div class="container px-5 my-3">

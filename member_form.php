@@ -49,9 +49,6 @@ $data = $master->get_data(isset($_GET['id']) ? $_GET['id'] :'');
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient">
         <div class="container">
             <a class="navbar-brand" href="./">PHP - JSON CRUD</a>
-            <div>
-                <a href="https://sourcecodester.com" class="text-light fw-bolder h6 text-decoration-none" target="_blank">SourceCodester</a>
-            </div>
         </div>
     </nav>
     <div class="container px-5 my-3">
